@@ -1,3 +1,3 @@
-# work_applied_game
+# Pixel Runner
 
-Teste update
+This is a 2D Game build with Python in Windows Environment using PyGame Library
